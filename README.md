@@ -1,4 +1,4 @@
-# Lead_Score_Case_Study
+# Lead_Score_Case_Study (For an Education Company)
 
 The case study is for X Education. X Education provides the courses for students 
 and industry professionals. The objective of the case study is to better the cold 
